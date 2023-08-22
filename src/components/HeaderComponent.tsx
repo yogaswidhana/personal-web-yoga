@@ -71,7 +71,7 @@ export default function HeaderComponent(): React.JSX.Element {
                 textDecoration: "none",
               }}
             >
-              {isLargerThanXL ? name : "MS"}
+              {isLargerThanXL ? name : "YW"}
             </Link>
 
             {/* Theme Toggle Button (Small Devices) */}
