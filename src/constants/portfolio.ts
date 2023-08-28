@@ -5,9 +5,9 @@ export const portfolioList: Portfolio[] = [
     title: "My Firts Personal Portfolio",
     imageThumbnail: "/assets/images/Project8.webp",
     description:
-      "This is second a personal branding project that I created using Next JS, Tailwind CSS, and Framer Motion. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "",
-    repositoryURL: "",
+      "This is the second personal branding project that I&apos;ve created using Next JS, Tailwind CSS, and Framer Motion. This project is a website which showing about my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "personal-web-yoga.vercel.app",
+    repositoryURL: "https://github.com/yogaswidhana/personal-web-yoga.git",
     techStack: [
       {
         tech: "HTML",
@@ -59,7 +59,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "Petabyte Landing Page is a website that I created using HTML, CSS, and Bootstrap. This website displays information about a software house that operates in the field of education, such as application, website, and educational game creation services. This website also has portfolio, testimonial, and consultation features that make it easy for visitors to know the quality and excellence of this software house.",
     livePreviewURL: "",
-    repositoryURL: "",
+    repositoryURL: "https://github.com/yogaswidhana/coffeeshop.git",
     techStack: [
       {
         tech: "HTML",
