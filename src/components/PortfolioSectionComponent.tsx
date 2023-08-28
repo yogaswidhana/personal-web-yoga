@@ -39,7 +39,7 @@ function PortfolioSectionComponent(): React.JSX.Element {
           rowGap={{ base: 3, lg: 5 }}
         >
           <SectionSubtitle>Project I&apos;ve Created💼</SectionSubtitle>
-          <SectionDescription>I&apos;ve created a few project while i was learing about frontend website development. and all of project i&apos;ll explain below</SectionDescription>
+          <SectionDescription>I&apos;ve created a few project while I was learing about frontend website development. And all of the project that I&apos;ll explain below</SectionDescription>
         </Flex>
 
         {/* Portfolio Section Content Container */}
