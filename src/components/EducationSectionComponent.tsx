@@ -89,7 +89,7 @@ function EducationSectionComponent(): React.JSX.Element {
                   borderRadius="md"
                 >
                   <MdOutlineSchool fontSize={18} />
-                  Educations
+                  Educations Details
                 </Badge>
 
                 <Box marginTop={8}>
@@ -123,7 +123,7 @@ function EducationSectionComponent(): React.JSX.Element {
                   borderRadius="md"
                 >
                   <AiFillTrophy fontSize={18} />
-                  Certificate
+                  Certificates
                 </Badge>
 
                 <Box marginTop={8}>
