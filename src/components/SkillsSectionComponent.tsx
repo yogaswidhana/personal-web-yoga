@@ -150,7 +150,7 @@ function SkillsSectionComponent(): React.JSX.Element {
             >
               <SectionSubtitle textAlign={{ lg: "end" }}>Tech Stack⚙️ & Tools🛠️</SectionSubtitle>
 
-              <SectionDescription textAlign={{ base: "center", lg: "end" }}>There are some tech stack and tools that i&apos;ve learned and experienced</SectionDescription>
+              <SectionDescription textAlign={{ base: "center", lg: "end" }}>There are some tech stack and tools that I&apos;ve learned and experienced</SectionDescription>
             </Flex>
           </GridItem>
         </Grid>
