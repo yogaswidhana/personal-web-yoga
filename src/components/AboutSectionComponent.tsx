@@ -97,7 +97,7 @@ function AboutSectionComponent(): React.JSX.Element {
                   fontWeight="semibold"
                   fontSize={{ base: "1.75rem", lg: "2rem" }}
                 >
-                  Hello👋 i&apos;am{" "}
+                  Hello👋 I&apos;m{" "}
                   <Text
                     as="span"
                     color="primary"
@@ -113,7 +113,7 @@ function AboutSectionComponent(): React.JSX.Element {
                   fontWeight="semibold"
                   fontSize={{ base: "xl", lg: "2xl" }}
                 >
-                  A{" "}
+                  a{" "}
                   <Text
                     as="span"
                     color="primary"
