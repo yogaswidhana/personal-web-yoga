@@ -8,7 +8,7 @@ export const profileData: Profile = {
   pictures: ["/assets/images/Foto.webp", "/assets/images/Foto3.webp"],
   descriptions: [
     "I create stunning website for your business, Intermediate experienced in web design, development, hardware, software, and networking.",
-    "Hello my friends! I am Yoga Swara Widhana, a Web Developer, Frontend Developer, and Staff IT. I am a intermediate experienced and I hope with this I can always learning something new to be able to invent digital applications that can help many people in the future. Can work alone or in a team.",
+    "Hello my friends! I am Yoga Swara Widhana, a Web Developer, Frontend Developer, and Staff IT. I am a intermediate experienced and I hope with this I can always learning something new to be able to invent digital applications that can help many people in the future. I can work independently or in a team.",
   ],
   experiences: [
     {
