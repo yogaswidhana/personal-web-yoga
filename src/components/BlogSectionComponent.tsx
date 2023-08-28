@@ -39,7 +39,7 @@ function BlogSectionComponent(): React.JSX.Element {
           rowGap={{ base: 3, lg: 5 }}
         >
           <SectionSubtitle>Blog About Coding📝</SectionSubtitle>
-          <SectionDescription>There are some blog about coding that i create to add more insight and also to share knowledge</SectionDescription>
+          <SectionDescription>There are some blog about coding that I create to add more insight and also to share knowledge</SectionDescription>
         </Flex>
 
         {/* Blog Section Content Container */}
