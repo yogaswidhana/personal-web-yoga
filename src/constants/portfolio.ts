@@ -227,6 +227,10 @@ export const portfolioList: Portfolio[] = [
         tech: "Laravel",
         logo: "/assets/svg/laravel.svg",
       },
+      {
+          tech: "MySQL",
+          logo: "/assets/svg/mysql.svg",
+        },
     ],
   },
     {
@@ -252,6 +256,40 @@ export const portfolioList: Portfolio[] = [
         {
           tech: "Boostrap",
           logo: "/assets/svg/bootstrap.svg",
+        },
+      ],
+    }
+   {
+      title: "Sistem POS Kasir Berbasis Web",
+      imageThumbnail: "/assets/images/Project9.webp",
+      description:
+        "This is firts a personal branding project that I created using Technology HTML, PHP, CSS, JavaScript, MySQL and Boostrap.",
+      livePreviewURL: "https://poskasirarte.000webhostapp.com/login.php",
+      repositoryURL: "https://github.com/yogaswidhana/poskasirarte",
+      techStack: [
+        {
+          tech: "HTML",
+          logo: "/assets/svg/html.svg",
+        },
+          {
+        tech: "PHP",
+        logo: "/assets/svg/php.svg",
+        },
+         {
+          tech: "CSS",
+          logo: "/assets/svg/css.svg",
+        },
+        {
+          tech: "JavaScript",
+          logo: "/assets/svg/javascript.svg",
+        },
+        {
+          tech: "Boostrap",
+          logo: "/assets/svg/bootstrap.svg",
+        },
+          {
+          tech: "MySQL",
+          logo: "/assets/svg/mysql.svg",
         },
       ],
     }
