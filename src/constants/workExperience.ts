@@ -25,4 +25,12 @@ export const workExperienceList: WorkExperience[] = [
     jobDescription: "Create and design websites for people's orders",
     techStack: ["/assets/svg/html.svg", "/assets/svg/php.svg", "/assets/svg/css.svg", "/assets/svg/javascript.svg", "/assets/svg/codeigniter.svg", "/assets/svg/bootstrap.svg", "/assets/svg/laravel.svg", "/assets/svg/react.svg", "/assets/svg/mysql.svg"],
   },
+   {
+    jobDesk: "IT Support Officer",
+    companyName: "PT. Adira Dinamika Multifinance Tbk",
+    years: "2023 - Present",
+    jobStatus: "Full-Time",
+    jobDescription: "●Troubleshoot Software, Hardware & Networking ● Monitor web running process and fix errors and bugs ● Configuration Technology",
+    techStack: ["/assets/svg/html.svg", "/assets/svg/php.svg", "/assets/svg/css.svg", "/assets/svg/javascript.svg", "/assets/svg/codeigniter.svg", "/assets/svg/lan-network.svg", "/assets/svg/wan.svg", "/assets/svg/MikroTik.svg", "/assets/svg/bootstrap.svg", "/assets/svg/laravel.svg", "/assets/svg/react.svg", "/assets/svg/mysql.svg"],
+  },
 ];
