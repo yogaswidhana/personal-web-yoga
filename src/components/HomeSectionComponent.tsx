@@ -93,26 +93,30 @@ function HomeSectionComponent(): React.JSX.Element {
               {descriptions[0]}
             </Text>
 
-            <Box
-              as={motion.div}
-              variants={zoomInTransition(1.5, 0.75)}
-            >
-              <PrimaryButton
-                href={CV}
-                target="_blank"
-                variant="solid"
-                size="xl"
-                borderRadius="0.5rem"
-                paddingY="4"
-                paddingX={{ base: "8", lg: "12" }}
-                columnGap={2}
-                rightIcon={<FaDownload />}
-                download
-              >
-                Download CV
-              </PrimaryButton>
-            </Box>
-          </GridItem>
+           <Box
+  as={motion.div}
+  variants={zoomInTransition(1.5, 0.75)}
+>
+  <PrimaryButton
+    onClick={() =>
+      Swal.fire({
+        icon: 'info',
+        title: 'Under Maintenance',
+        text: 'Fitur Download CV sedang dalam perawatan. Silakan coba lagi nanti.',
+        confirmButtonText: 'OK'
+      })
+    }
+    variant="solid"
+    size="xl"
+    borderRadius="0.5rem"
+    paddingY="4"
+    paddingX={{ base: "8", lg: "12" }}
+    columnGap={2}
+    rightIcon={<FaDownload />}
+  >
+    Download CV
+  </PrimaryButton>
+</Box>
 
           {/* Home Section Profile Image */}
           <GridItem
